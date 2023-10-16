@@ -1,4 +1,4 @@
-
+#if 0
 #include <iostream>
 #include <string.h>
 using namespace std;
@@ -85,3 +85,4 @@ int main()
     cout << s1;
     return 0;
 }
+#endif
