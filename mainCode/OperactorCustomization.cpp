@@ -1,4 +1,4 @@
-
+#if 0
 #include <iostream>
 
 using namespace std;
@@ -55,3 +55,4 @@ int main()
     delete[] pa;
     return 0;
 }
+#endif
