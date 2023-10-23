@@ -1,3 +1,6 @@
+#include <iostream>
+#include "VirtualBed.h"
+#include "VirtualSofa.h"
 #include "VirtualSofaBed.h"
 
 sofabed::sofabed(float len, float wide, float height)

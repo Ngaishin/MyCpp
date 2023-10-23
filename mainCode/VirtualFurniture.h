@@ -1,7 +1,6 @@
 #ifndef _FURNITURE_H_
 #define _FURNITURE_H_
-#include <iostream>
-using namespace std;
+
 class furniture
 {
 public:

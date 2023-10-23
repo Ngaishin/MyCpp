@@ -1,4 +1,7 @@
 #include "ClassCpyConstructor.h"
+#include <iostream>
+
+using namespace std;
 
 Student::Student(string name, int age)
     : _name(name), _age(age) {}

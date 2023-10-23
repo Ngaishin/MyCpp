@@ -1,8 +1,6 @@
 #ifndef _SOFABED_H_
 #define _SOFABED_H_
-#include <iostream>
-#include "VirtualBed.h"
-#include "VirtualSofa.h"ss
+
 
 
 

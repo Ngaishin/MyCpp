@@ -1,0 +1,10 @@
+Inherited_Class
+1.Use "Developer Command Prompt for VS" to check out class layout.
+    1.1.jump to the folder where the cpp file is located.
+    1.2.input: " cl /d1 reportSingleClassLayoutXXX YYY.cpp ",
+                XXX is class's Name,
+                YYY.cpp is the file where the class is located.
+    *1.3.Note that the base class declaration must be placed before the subclass declaration.
+
+2.Don't fotget to add "public" when inheriting a class!
+

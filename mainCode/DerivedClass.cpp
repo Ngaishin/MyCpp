@@ -1,4 +1,8 @@
 #include "DerivedClass.h"
+#include <iostream>
+
+using namespace std;
+
 void human::dis()
 {
     cout << "name  : " << this->_name << endl;

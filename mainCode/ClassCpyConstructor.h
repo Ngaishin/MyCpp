@@ -1,9 +1,6 @@
 #ifndef _CCCONSTRUCTOR_H
 #define _CCCONSTRUCTOR_H
 
-#include <iostream>
-
-using namespace std;
 
 class Student
 {

@@ -1,7 +1,6 @@
 #ifndef _SOFA_H_
 #define _SOFA_H_
-#include <iostream>
-#include "VirtualFurniture.h"
+
 
 
 class sofa : virtual public furniture

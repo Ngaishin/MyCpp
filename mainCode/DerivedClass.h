@@ -1,9 +1,6 @@
 #ifndef _DERIVEDCLASS_H
 #define _DERIVEDCLASS_H
 
-#include <iostream>
-
-using namespace std;
 
 class human
 {
